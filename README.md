@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rashini Ashinsana</h1>
 <h3 align="center">A passionate UI/UX Designer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rashiniashinsana&label=Profile%20views&color=0e75b6&style=flat" alt="rashiniashinsana" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashiniashinsana&label=Profile%20views&color=0e75b6&style=flat" alt="rashiniashinsana" /> </p>
+___
+
+ <img src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/pic1.gif?raw=true" alt="" width="300" height="200" align= "center"/>
+
+___
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashiniashinsana" alt="rashiniashinsana" /></a> </p>
 

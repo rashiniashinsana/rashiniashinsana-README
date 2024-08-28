@@ -10,12 +10,13 @@ ___
 <p><img align="right" height="250" width="300" src=https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/pic1.gif?raw=true alt="SubhadeepZilong" /></p>
 
 </br>
+</br>
 
 - 🔭 I’m currently studying on **Institute of Software Engineering - IJSE.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Java.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Design or DevOps .**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **She/Her.**
-- ⚡ 𝙵𝚊𝚌𝚝 : **It is BETTER to give THAN Receive.***
+- ⚡ 𝙵𝚊𝚌𝚝 : **It is BETTER to give THAN Receive.**
 
 
 ___

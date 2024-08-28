@@ -18,7 +18,6 @@ ___
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **She/Her.**
 - ⚡ 𝙵𝚊𝚌𝚝 : **It is BETTER to give THAN Receive.**
 
-
 ___
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashiniashinsana" alt="rashiniashinsana" /></a> </p>

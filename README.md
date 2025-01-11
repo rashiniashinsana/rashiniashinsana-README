@@ -1,34 +1,67 @@
 <h1 align="center">Hi 👋, I'm Rashini Ashinsana from Sri Lanka</h1>
 <h3 align="center">A passionate UI/UX Designer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rashiniashinsana&label=Profile%20views&color=0e75b6&style=flat" alt="rashiniashinsana" /> </p>
-<img src="https://indoanalytica.com/static/images/bannerr.gif" width="800px" height="300px" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rashiniashinsana&label=ProfileViews&color=00FFFF&style=for-the-badge" alt="profile views" />
+</p>
 
 ___
 <br/>
 
+## About Me
 - 🔭 I’m currently studying on **Institute of Software Engineering - IJSE.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Java.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Design or DevOps .**
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **She/Her.**
-- ⚡ 𝙵𝚊𝚌𝚝 : **It is BETTER to give THAN Receive.**
+
+**Connect with me:**
+
+- <a href="mailto:rashinivithanage2@gmail.com" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
+  </a>
+
+- <a href="https://www.linkedin.com/in/rashini-vithanage-346b072a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+-  <a href="https://github.com/rashiniashinsana" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</div>
+
+</br>
+
+## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js Badge" />
+   <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</div>
+<p></p>
+ 
+
+
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashiniashinsana&show_icons=true&theme=radical" alt="Rashini's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashiniashinsana&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+</div>
+
+<div>
+  <br>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rashiniashinsana&theme=dark&row=1&column=6" alt="Trophies" />
+</div>
+
 
 <br/>
 
 ___
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashiniashinsana" alt="rashiniashinsana" /></a> </p>
-
-- 📫 How to reach me **rashinivithanage2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rashini-vithanage-346b072a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashinivithanage" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashiniashinsana&show_icons=true&locale=en&layout=compact" alt="rashiniashinsana" /></p>
 
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
